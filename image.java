@@ -1,4 +1,4 @@
-package com.windevstudios.imgcloseup;
+package com.windevstudios.imagecloseup;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
