@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.windevstudios.imagecloseup;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;
