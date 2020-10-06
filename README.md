@@ -1,4 +1,5 @@
 # ImageCloseup
+[![Run on Repl.it](https://repl.it/badge/github/WindevStudios/ImageCloseup)](https://repl.it/github/WindevStudios/ImageCloseup)  
 Have you ever wanted to see an image up close? ImageCloseup can help do that!  
 With the power of Java, Windev Studios has created a basic app that can give you a singular window with an image that stretches! You can maximize it and fullscreen it!
 # Configuration
